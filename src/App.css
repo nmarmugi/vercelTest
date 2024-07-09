@@ -23,16 +23,16 @@ button {
 #sasso {
 	background-color: blue;
 	position: absolute;
-	bottom: -20px;
-	left: -20px;
+	bottom: -40px;
+	left: -40px;
 	transition: transform 0.35s ease;
 	cursor: pointer;
 }
 
 #forbice {
 	position: absolute;
-	bottom: -20px;
-	right: -20px;
+	bottom: -40px;
+	right: -40px;
 	background-color: greenyellow;
 	transition: transform 0.35s ease;
 	cursor: pointer;
@@ -40,8 +40,8 @@ button {
 
 #cartaTwo, #sassoTwo, #forbiceTwo {
 	position: absolute;
-	top: calc(50% - 82px);
-	right: calc(50% - 82px);
+	top: calc(50% - 65px);
+	right: calc(50% - 65px);
 	background-color: red;
 	transition: transform 0.35s ease;
 	cursor: pointer;
@@ -51,7 +51,7 @@ button {
 	background-color: rgb(251, 255, 0);
 	position: absolute;
 	top: -82px;
-	left: calc(50% - 82px);
+	left: calc(50% - 65px);
 	transition: transform 0.35s ease;
 	cursor: pointer;
 }
@@ -99,7 +99,7 @@ button {
 .buttonReset:hover {
 	background-color: greenyellow;
 	border: none;
-	transform: scale(1.1);
+	transform: scale(1.05);
 }
 
 .container {
