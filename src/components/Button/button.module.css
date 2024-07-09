@@ -1,0 +1,9 @@
+.button img {
+	width: 100px;
+}
+
+.button {
+	text-align: center;
+	padding: 30px;
+	border-radius: 50%;
+}
