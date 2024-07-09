@@ -1,8 +1,8 @@
 .containerButtons {
 	position: relative;
 	background-color: rgb(110, 110, 110);
-	height: 400px;
-	width: 400px;
+	height: 270px;
+	width: 270px;
 	border-radius: 50%;
 	transition: transform 0.35s ease;
 }
